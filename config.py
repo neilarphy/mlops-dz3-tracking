@@ -6,8 +6,10 @@ config = {
     },
     "logistic_regression": {
         "max_iter": 200,
+        "C": 1.0
     },
     "decision_tree": {
         "max_depth": 10,
+        "criterion": "gini"
     }
 }

@@ -1,0 +1,15 @@
+artifact_uri: file:///N:/Programming/Learning/MLOPS%20%D0%BA%D1%83%D1%80%D1%81/2%D0%B1%D0%BB%D0%BE%D0%BA%D0%9C%D0%9B%D0%BE%D0%BF%D1%81/mlops_hw3_tracking/mlruns/610258648049742879/3ca204c96a55471b979dbabaf2910b24/artifacts
+end_time: 1747660807092
+entry_point_name: ''
+experiment_id: '610258648049742879'
+lifecycle_stage: active
+run_id: 3ca204c96a55471b979dbabaf2910b24
+run_name: judicious-shoat-138
+run_uuid: 3ca204c96a55471b979dbabaf2910b24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747660806418
+status: 3
+tags: []
+user_id: anatb
