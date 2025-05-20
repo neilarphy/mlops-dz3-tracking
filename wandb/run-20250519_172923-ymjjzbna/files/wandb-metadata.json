@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.1",
+  "startedAt": "2025-05-19T12:29:23.618992Z",
+  "program": "N:\\Programming\\Learning\\MLOPS курс\\2блокМЛопс\\mlops_hw3_tracking\\model2.py",
+  "codePath": "model2.py",
+  "git": {
+    "remote": "https://github.com/neilarphy/mlops-dz3-tracking",
+    "commit": "878c6ee8a604976bf08fee8dadf4cb49c6ad978d"
+  },
+  "email": "anatbann@gmail.com",
+  "root": "N:\\Programming\\Learning\\MLOPS курс\\2блокМЛопс\\mlops_hw3_tracking",
+  "host": "Nemesis",
+  "executable": "N:\\Programming\\Learning\\MLOPS курс\\2блокМЛопс\\mlops_hw3_tracking\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "model2.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "734002147328",
+      "used": "599845281792"
+    }
+  },
+  "memory": {
+    "total": "17024741376"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal": "6442450944",
+      "cudaCores": 3840,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
